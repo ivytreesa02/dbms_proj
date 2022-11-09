@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2f28a6a-427c-4864-b2dd-906a16b3fc1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/update_brand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/update_category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/update_employee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/update_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/update_product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/update_quantity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/BrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/BrandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/OrdersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/OrdersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/ShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Models/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Models/AdminPhoneNo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Models/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Models/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Models/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Models/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Models/EmployeePhoneNo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Models/LoginDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Models/UserPhoneNo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/BrandRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/BrandRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/CartRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/CartRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/CartRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/CartRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/CategoryRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/CategoryRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/EmployeeRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/EmployeeRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/OrderRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/OrderRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/ProductRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/ProductRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/UserRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/Repository/UserRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/config/MyUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/config/MyUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/config/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/config/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cloth_management/service/SecurityServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cloth_management/service/SecurityServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Brands.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Brands.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Products.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/add_brand.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add_brand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/add_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add_category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/add_employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add_employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/add_products.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add_products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/logout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/view_product.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/view_product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/BrandController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/BrandController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/CartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/OrdersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/OrdersController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Models/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Models/AdminPhoneNo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Models/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Models/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Models/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Models/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Models/EmployeePhoneNo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Models/LoginDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Models/UserPhoneNo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/BrandRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/BrandRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/CartRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/CartRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/CartRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/CartRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/CategoryRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/CategoryRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/EmployeeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/EmployeeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/EmployeeRepositoryImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/EmployeeRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/EmployeeRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/OrderRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/OrderRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/OrderRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/OrderRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/ProductRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/ProductRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/UserRepositoryImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/UserRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/Repository/UserRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/config/MyUserDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/config/MyUserDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/config/UserDetailsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/config/UserDetailsServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/config/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cloth_management/service/SecurityServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cloth_management/service/SecurityServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Brands.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/Brands.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Products.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/Products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/Shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/add_brand.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/add_brand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/add_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/add_category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/add_employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/add_employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/add_products.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/add_products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/logout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/view_product.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/view_product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/welcome.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/cloth_management/Controller/LoginController.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Gy4PPMxL00gEmiF0Zq84aesRWZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/OMEN/Desktop/DBMS3/DBMS/cloth_management",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2f28a6a-427c-4864-b2dd-906a16b3fc1f" name="Changes" comment="" />
+      <created>1667347467311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667347467311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cloth_management$ClothManagementApplication.ic" NAME="ClothManagementApplication Coverage Results" MODIFIED="1667348944841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cloth_management.*</FILTER>
+    </SUITE>
+  </component>
+</project>
